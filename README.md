@@ -1,9 +1,18 @@
 # DROID-STAR
 
-- Space: This section would likely deal with the specific challenges of operating in space. For example, the system would need to account for the lack of atmosphere and extreme temperatures that droids would encounter in space. It would also need to address the challenges of communicating with droids over long distances and in the absence of direct line-of-sight.
+# DROID:
+Write your Project Title Here. This is the title of the entire project. We call them "DROIDs" because we build technology and send them out to various transports.  Each title should be short, concise, and easy to understand. Since we are specialists in building Droids, we want employees to focus on the main criteria of the D.R.O.I.D. Ops. (Design, Research, Optimze, Integrate, Deliver) Operations.  The "Operations" portion focuses heavily on collaboration, communication, creative thinking, agile/lean philosophy, and deep cyber security practices.
 
-- Track: This section would involve the use of sensors and other technologies to track the location and movements of the droids. This would be particularly important in space, where there are no landmarks or reference points to rely on. The system might use GPS or other satellite-based positioning technologies to track the droids' movements.
+## SPACE:
+Write the Project SPACE Here. Set the scene for your project. Here, you outline a specific challenge you or your team is facing and give the listener ample context around the problem. Even if you are the only one working on this, do not use "I" in the Space area. Instead, discuss the Space from an omnipresent perspective that is factual and focuses on the bigger picture. Also, dont use "We". Just let go of ownership and discuss the project/challenge as if it alive and is its own being. It is helpful to share who, what, where, when in this area. 
 
-- Assist: This section would likely involve the use of AI or other advanced technologies to assist the droids in performing their tasks. For example, the system might use computer vision to help the droids navigate complex environments, or it might use machine learning to help them identify and respond to different types of objects or situations.
+## TRACK:
+Write the Project TRACK here. Give a few brief details and follow the S.M.A.R.T. Goal approach to give specific and measurable visualization of the track your STAR is going on. For example, The track should be easily visualized as a path through time and space where you discuss the past, present, and future of the trajected path for which the Project STAR is on course. Paint a picture that clearly shows you comprehend where the STAR was before you came and outline a predictable path it will follow.  You may also discuss where you think it is headed in the future.  All of this makes up the S.T.A.R. Track.
 
-- Reach: This section would involve the ability of the droids to reach different locations or perform specific tasks. For example, the system might include different types of droids with specialized capabilities, such as ones designed to repair or maintain spacecraft, or ones that can perform complex scientific experiments.
+## ASSIST:
+Write the Project ASSIST here. Now you explain what you are going to do.  How will you assist the STAR in staying on course and achieving the desired path defined above in your track?  What impact are you going to make today specifically as your individual contribution to steer it better on its path? Be specific and explain how your time will be spent to overcome the challenge or to shift the direction of the project appropriately. You could outline the steps you will take and KPIs you will focus on to assist the path. Even if it is a team effort, explain what you will do and lead with "I" instead of "we" to detail your individual approach.
+
+During the Assist is where we expect the individual to touch on some aspect of D.R.O.I.D. Ops.
+
+## REACH:
+Write the Project REACH here. Finally, summarize the effects of your actions with a confident and deterministic end goal due to your efforts that aligns with the STAR Track. If possible, talk about facts, figures and stats that quantify the Project Reach. You can also discuss what you learned and share insights that you can apply to future challenges.
